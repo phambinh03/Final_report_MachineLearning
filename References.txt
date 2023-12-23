@@ -1,0 +1,4 @@
+https://imerit.net/blog/a-complete-introduction-to-continual-learning/
+https://wiki.continualai.org/the-continualai-wiki/
+https://link.springer.com/article/10.1007/s10489-021-02543-8
+https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition (data)
